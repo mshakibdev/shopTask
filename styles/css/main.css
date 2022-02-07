@@ -1,19 +1,23 @@
-body {
-    background-color: #292929;
-    color: #FFFFFF;
-    font-size: 16px;
-    font-family: "Hind", sans-serif;
-    font-weight: 400;
-}
-
-.w-970 {
-    width: 970px;
-    background-color: #CBCBCB;
-    opacity: 50%;
-    height: 1px;
-}
-
-.w-984 {
-    width: 970px;
-    background-color: #131313;
-}
+    body {
+        background-color: #292929;
+        color: #FFFFFF;
+        font-size: 16px;
+        font-family: "Hind", sans-serif;
+        font-weight: 400;
+    }
+    
+    .w-970 {
+        width: 970px;
+        background-color: #CBCBCB;
+        opacity: 50%;
+        height: 1px;
+    }
+    
+    .products {
+        width: 984px;
+        background-color: #131313;
+    }
+    
+    .card {
+        background-color: #232323;
+    }
